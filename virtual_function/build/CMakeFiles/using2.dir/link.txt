@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/using2.dir/using2.cpp.o  -o using2 

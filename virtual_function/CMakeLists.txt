@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.5)
+project(VIRTUAL_FUNCTION)
+add_executable(virtualFunction virtual_function.cpp)
+add_executable(using using.cpp)
+add_executable(using2 using2.cpp)
